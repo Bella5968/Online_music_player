@@ -1,1 +1,9 @@
 node_modules
+dist
+.env
+.firebase
+firebase.json
+.firebaserc
+.vscode
+.DS_Store
+*.log
