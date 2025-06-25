@@ -8,7 +8,7 @@ Check out this project on GitHub: [Relaxify - Online Music Player](https://githu
 
 ## 🌐 Live Preview
 
-Check out the live app here: [Relaxify Web App](https://relaxify-url.com)
+Check out the live app here: [Relaxify Web App](https://online-music-player-bella.vercel.app/)
 
 ---
 
