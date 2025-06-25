@@ -2,8 +2,13 @@
 
 **Relaxify** is a modern web-based music application that allows users to log in, create personal playlists, and play preview tracks. Built with **React**, **Firebase**, **TailwindCSS**, and **React Router**, it delivers a smooth and interactive user experience.
 
+## Portfolio
+
+Check out this project on GitHub: [Relaxify - Online Music Player](https://github.com/bella5968/online_music_player)
+
 ## 🌐 Live Preview
-> _Coming soon_ – Deploy using Vercel, Netlify, or Firebase Hosting
+
+Check out the live app here: [Relaxify Web App](https://relaxify-url.com)
 
 ---
 
@@ -33,3 +38,4 @@
 ```bash
 git clone https://github.com/your-username/relaxify.git
 cd relaxify
+```
